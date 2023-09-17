@@ -77,13 +77,13 @@ for cloning follow this steps
 
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
-  https://github.com/StevenWafeek/budget-app
+ git@github.com:Jrmcuervo/ror_capstone_project.git
 - Run the code with ruby
 
 Example commands:
 
 ```sh
-  git clone https://github.com/StevenWafeek/budget-app
+  git clone git@github.com:Jrmcuervo/ror_capstone_project.git
 ```
 
 ### Prerequisites
